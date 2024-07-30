@@ -1,16 +1,24 @@
 import React, { Component } from "react";
 import NewsItems from "./NewsItems";
 import Loading from "./Loading";
+import PropTypes from "prop-types";
 
 export class News extends Component {
+  static defaultProps = { language: "en", pageSize: 12, category: "general" };
+
+  static propTypes = {
+    language: PropTypes.string,
+    pageSize: PropTypes.number,
+    category: PropTypes.string,
+  };
+
   constructor() {
     super();
     this.state = { articles: [], page: 1 };
   }
 
   async componentDidMount() {
-    let url =
-      "https://newsapi.org/v2/top-headlines?language=en&apiKey=738b8730fa5740a89fbd2f31bd61ef51&pageSize=12";
+    let url = `https://newsapi.org/v2/top-headlines?language=${this.props.language}&category=${this.props.category}&apiKey=738b8730fa5740a89fbd2f31bd61ef51&pageSize=12`;
     let data = await fetch(url);
     let parsedData = await data.json();
     this.setState({
@@ -20,7 +28,11 @@ export class News extends Component {
   }
 
   handlePrevClick = async () => {
-    let url = `https://newsapi.org/v2/top-headlines?language=en&apiKey=738b8730fa5740a89fbd2f31bd61ef51&page=${
+    let url = `https://newsapi.org/v2/top-headlines?language=${
+      this.props.language
+    }&category=${
+      this.props.category
+    }&apiKey=738b8730fa5740a89fbd2f31bd61ef51&page=${
       this.state.page - 1
     }&pageSize=12`;
     this.setState({ loading: true });
@@ -34,7 +46,11 @@ export class News extends Component {
   };
 
   handleNextClick = async () => {
-    let url = `https://newsapi.org/v2/top-headlines?language=en&apiKey=738b8730fa5740a89fbd2f31bd61ef51&page=${
+    let url = `https://newsapi.org/v2/top-headlines?language=${
+      this.props.language
+    }&category=${
+      this.props.category
+    }&apiKey=738b8730fa5740a89fbd2f31bd61ef51&page=${
       this.state.page + 1
     }&pageSize=12`;
     this.setState({ loading: true });
