@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The New York Times",
+      "title": "Biden Calls for Changes to Supreme Court - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjkvdXMvcG9saXRpY3MvYmlkZW4tc3VwcmVtZS1jb3VydC1hdXN0aW4tdGV4YXMuaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T14:30:34Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "MarketWatch",
+      "title": "Traders may be jumping the gun once again by betting on aggressive Fed rate cuts - MarketWatch",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9zdG9yeS90cmFkZXJzLW1heS1iZS1qdW1waW5nLXRoZS1ndW4tb25jZS1hZ2Fpbi1ieS1iZXR0aW5nLW9uLWFnZ3Jlc3NpdmUtZmVkLXJhdGUtY3V0cy0zNzFhZGNkZNIBf2h0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9hbXAvc3RvcnkvdHJhZGVycy1tYXktYmUtanVtcGluZy10aGUtZ3VuLW9uY2UtYWdhaW4tYnktYmV0dGluZy1vbi1hZ2dyZXNzaXZlLWZlZC1yYXRlLWN1dHMtMzcxYWRjZGQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T13:26:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "WYFF4 Greenville",
+      "title": "Latest on new tropical disturbance in the Atlantic - WYFF4 Greenville",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lnd5ZmY0LmNvbS9hcnRpY2xlL3Ryb3BpY2FsLWRpc3R1cmJhbmNlLWF0bGFudGljLzYxNzI1NjU20gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T13:23:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The New York Times",
+      "title": "Staley: Caitlin Clark might have made USWNT with current play - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU2NjU1NjQvMjAyNC8wNy8yOS9jYWl0bGluLWNsYXJrLW9seW1waWMtdGVhbS1kYXduLXN0YWxleS_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T13:09:47Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "TMZ",
+      "title": "Lady Gaga Engaged to Michael Polansky, Calls Him 'Fiancé' in New Video - TMZ",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnRtei5jb20vMjAyNC8wNy8yOS9sYWR5LWdhZ2EtZW5nYWdlZC1taWNoYWVsLXBvbGFuc2t5LWZpYW5jZS_SAUlodHRwczovL2FtcC50bXouY29tLzIwMjQvMDcvMjkvbGFkeS1nYWdhLWVuZ2FnZWQtbWljaGFlbC1wb2xhbnNreS1maWFuY2Uv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T13:09:17Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Al Jazeera English",
+      "title": "Stark split in world reactions to disputed Venezuela election - Al Jazeera English",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMjkvc3Rhcmstc3BsaXQtaW4td29ybGQtcmVhY3Rpb25zLXRvLWRpc3B1dGVkLXZlbmV6dWVsYS1lbGVjdGlvbtIBamh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyNC83LzI5L3N0YXJrLXNwbGl0LWluLXdvcmxkLXJlYWN0aW9ucy10by1kaXNwdXRlZC12ZW5lenVlbGEtZWxlY3Rpb24?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T12:33:37Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Joan Biskupic",
+      "title": "Exclusive: Inside the Supreme Court’s negotiations and compromise on Idaho’s abortion ban - CNN",
+      "description": "The Supreme Court began the year poised to build on its 2022 decision overturning Roe v. Wade and to deliver a new blow to abortion access.",
+      "url": "https://www.cnn.com/2024/07/29/politics/supreme-court-idaho-abortion-emtala-biskupic/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240726-supreme-court-idaho-abortion-ruling-gfx-final.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-07-29T12:32:00Z",
+      "content": "The Supreme Court began the year poised to build on its 2022 decision overturning Roe v. Wade and to deliver a new blow to abortion access.\r\nIn January, the court took the extraordinary step of letti… [+11077 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Yahoo Finance",
+      "title": "McDonald's Q2 Earnings: Consumer Spending Shifts Hit Revenue And Operating Margins, Franchise Revenue Remains Flat - Yahoo Finance",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9tY2RvbmFsZHMtcTItZWFybmluZ3MtY29uc3VtZXItc3BlbmRpbmctMTIwNDEwMTcwLmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T12:04:10Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Seattle Times",
+      "title": "A star is about to explode. Here’s how to watch it - The Seattle Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vbmF0aW9uLXdvcmxkL2Etc3Rhci1pcy1hYm91dC10by1leHBsb2RlLWhlcmVzLWhvdy10by13YXRjaC1pdC_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T11:36:05Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "BBC.com",
+      "title": "Israeli ministers authorise Netanyahu response to Golan attack - BBC.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdzV5NDlydjE3NG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3c1eTQ5cnYxNzRvLmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T11:25:23Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "TechSpot" },
+      "author": "Skye Jacobs",
+      "title": "Intel's crashing CPU crisis deepens as more models are affected than originally thought - TechSpot",
+      "description": "The news coming out of Intel about its crashing 13th- and 14th-generation CPUs is not getting any better, even after it said it had finally solved the...",
+      "url": "https://www.techspot.com/news/104010-intel-crashing-cpu-crisis-deepens-more-models-affected.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/07/2024-07-29-image.jpg",
+      "publishedAt": "2024-07-29T11:15:00Z",
+      "content": "A hot potato: Intel probably thought the worst was behind it after the company identified the source of the instability surrounding its 13th- and 14th-gen CPUs and promised a patch to address the iss… [+2513 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Jesse Pound",
+      "title": "Stock futures rise ahead of major tech earnings reports set for later this week: Live updates - CNBC",
+      "description": "Earnings from Apple and Microsoft and a Federal Reserve meeting are key events in the week ahead.",
+      "url": "https://www.cnbc.com/2024/07/28/stock-futures-are-little-changed-ahead-of-loaded-week-for-tech-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108011433-1721856730435-gettyimages-2163516206-migrant461209_fzgmkcol.jpeg?v=1721856896&w=1920&h=1080",
+      "publishedAt": "2024-07-29T11:10:00Z",
+      "content": "Stock futures rose Monday as Wall Street gears up for a busy week of corporate earnings.\r\nFutures tied to the Dow Jones Industrial Average climbed 153 points, or 0.4%. S&amp;P 500 futures gained 0.4%… [+1382 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Associated Press",
+      "title": "UK's new Treasury chief says previous government 'covered up' financial turmoil ahead of election - The Associated Press",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3VrLXB1YmxpYy1maW5hbmNlcy10cmVhc3VyeS1jaGllZi1yYWNoZWwtcmVldmVzLXRheGVzLWUzM2Y1M2ZjMmU3MmYzM2RmOTcxYzUyMmVjNjU0MmEy0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T11:04:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Kevin Purdy",
+      "title": "Synology BeeStation review: A great way to start getting real about backups - Ars Technica",
+      "description": "If you're not ready for full-on NAS gear, consider this clever little drive.",
+      "url": "https://arstechnica.com/gadgets/2024/07/synology-beestation-review-a-great-way-to-start-getting-real-about-backups/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/beestation_handout-760x380.jpg",
+      "publishedAt": "2024-07-29T11:00:54Z",
+      "content": "Enlarge/ In this handout image from Synology, a thoughtful worker uses BeeFiles on their MacBook and BeePhotos on their iPhone, always keeping their BeeStation close at hand. They might have importan… [+4508 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "Long-term exposure to wildfire smoke linked to increased risk of dementia diagnosis, new study finds - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yOS9oZWFsdGgvd2lsZGZpcmUtc21va2UtZGVtZW50aWEtc3R1ZHkvaW5kZXguaHRtbNIBR2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjkvaGVhbHRoL3dpbGRmaXJlLXNtb2tlLWRlbWVudGlhLXN0dWR5?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T11:00:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "Harris sees opening in Vance as she considers her own pick for vice president - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yOS9wb2xpdGljcy9rYW1hbGEtaGFycmlzLWpkLXZhbmNlLXZwLXBpY2svaW5kZXguaHRtbNIBSmh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjkvcG9saXRpY3Mva2FtYWxhLWhhcnJpcy1qZC12YW5jZS12cC1waWNr?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T10:51:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Livescience.com",
+      "title": "Methane 'kitchens' in Siberia's permafrost form mounds that can erupt, creating giant craters - Livescience.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5saXZlc2NpZW5jZS5jb20vcGxhbmV0LWVhcnRoL2dlb2xvZ3kvbWV0aGFuZS1raXRjaGVucy1pbi1zaWJlcmlhLXMtcGVybWFmcm9zdC1mb3JtLWZyb3N0LW1vdW5kcy10aGF0LWVydXB0LWNyZWF0aW5nLWdpYW50LWNyYXRlcnPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T10:43:40Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "Venus atmosphere shows potential signs of life — again - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yOS9zY2llbmNlL3ZlbnVzLWdhc2VzLXBob3NwaGluZS1hbW1vbmlhL2luZGV4Lmh0bWzSAUhodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzI5L3NjaWVuY2UvdmVudXMtZ2FzZXMtcGhvc3BoaW5lLWFtbW9uaWE?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T10:30:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "ABC News",
+      "title": "Local SWAT team blames Trump assassination attempt on lack of planning, communication - ABC News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvbG9jYWwtc3dhdC10ZWFtLWJsYW1lcy10cnVtcC1hc3Nhc3NpbmF0aW9uLWF0dGVtcHQtbGFjay9zdG9yeT9pZD0xMTIzNTIzMjTSAWhodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9VUy9sb2NhbC1zd2F0LXRlYW0tYmxhbWVzLXRydW1wLWFzc2Fzc2luYXRpb24tYXR0ZW1wdC1sYWNrL3N0b3J5P2lkPTExMjM1MjMyNA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T10:08:41Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "French police arrest ultra-left activist over pre-Olympics railway sabotage as new incident hits phone lines - CBS News",
+      "description": "Police have arrested a far-left activist in connection with arson attacks that hit France's high-speed rail network hours before the Olympic opening ceremony.",
+      "url": "https://www.cbsnews.com/news/paris-olympics-trains-sabotage-arrest-far-left-activist-phone-lines-telecommunications/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/07/29/9ac08a65-e56f-4816-b024-ecb4f7400409/thumbnail/1200x630g8/e1a819c10244028524f507920c7823a5/france-rail-sabotage-2162884981.jpg?v=5501038cbc281520ff9fdc308faab7dc",
+      "publishedAt": "2024-07-29T10:03:09Z",
+      "content": "Your Privacy\r\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information wit… [+1677 chars]"
+    }
+  ]
+}
