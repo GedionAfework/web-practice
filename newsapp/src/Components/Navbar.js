@@ -1,13 +1,12 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
 
 export class Navbar extends Component {
   render() {
     return (
       <div>
-        <nav className="navbar navbar-expand-lg bg-body-secondary bg-dark">
+        <nav className="navbar navbar-expand-lg bg-dark">
           <div className="container-fluid">
-            <a className="navbar-brand" href="/">
+            <a className="navbar-brand text-white" href="/">
               News App
             </a>
             <button
@@ -27,37 +26,37 @@ export class Navbar extends Component {
             >
               <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                 <li className="nav-item">
-                  <a className="nav-link" href="/">
+                  <a className="nav-link text-white" href="/">
                     Home
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/business">
+                  <a className="nav-link text-white" href="/business">
                     Business
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/entertainment">
+                  <a className="nav-link text-white" href="/entertainment">
                     Entertainment
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/health">
+                  <a className="nav-link text-white" href="/health">
                     Health
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/science">
+                  <a className="nav-link text-white" href="/science">
                     Science
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/sport">
+                  <a className="nav-link text-white" href="/sport">
                     Sport
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/technology">
+                  <a className="nav-link text-white" href="/technology">
                     Technology
                   </a>
                 </li>
@@ -72,67 +71,67 @@ export class Navbar extends Component {
                 </button>
                 <ul className="dropdown-menu">
                   <li>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="/">
                       English
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="/ar">
                       Arabic
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="/de">
                       Germany (Standard)
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="/es">
                       Spanish
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="/fr">
                       French
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="/he">
                       Hebrew
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="/it">
                       Italian
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="/nl">
                       Dutch
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="/no">
                       Norwegian
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="/pt">
                       Portuguese
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="/ru">
                       Russian
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="/sv">
                       Swedish
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="#">
+                    <a className="dropdown-item" href="/zh">
                       Chinese
                     </a>
                   </li>

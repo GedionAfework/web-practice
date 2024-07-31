@@ -63,6 +63,42 @@ export default class App extends Component {
                 key="technology"
               />
             </Route>
+            <Route exact path="/ar">
+              <News language="ar" pageSize={12} category="general" key="ar" />
+            </Route>
+            <Route exact path="/de">
+              <News language="de" pageSize={12} category="general" key="de" />
+            </Route>
+            <Route exact path="/es">
+              <News language="es" pageSize={12} category="general" key="es" />
+            </Route>
+            <Route exact path="/fr">
+              <News language="fr" pageSize={12} category="general" key="fr" />
+            </Route>
+            <Route exact path="/he">
+              <News language="he" pageSize={12} category="general" key="he" />
+            </Route>
+            <Route exact path="/it">
+              <News language="it" pageSize={12} category="general" key="it" />
+            </Route>
+            <Route exact path="/nl">
+              <News language="nl" pageSize={12} category="general" key="nl" />
+            </Route>
+            <Route exact path="/no">
+              <News language="no" pageSize={12} category="general" key="no" />
+            </Route>
+            <Route exact path="/pt">
+              <News language="pt" pageSize={12} category="general" key="pt" />
+            </Route>
+            <Route exact path="/ru">
+              <News language="ru" pageSize={12} category="general" key="ru" />
+            </Route>
+            <Route exact path="/sv">
+              <News language="sv" pageSize={12} category="general" key="sv" />
+            </Route>
+            <Route exact path="/zh">
+              <News language="zh" pageSize={12} category="general" key="zh" />
+            </Route>
           </Switch>
         </Router>
       </div>

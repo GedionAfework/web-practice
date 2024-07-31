@@ -9,7 +9,7 @@ export class NewsItems extends Component {
           <img
             src={
               !imgUrl
-                ? "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwo6ul9ecjS5Hx7L7XWEce6E_acto4Wo987g&s"
+                ? "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjCAfVgATBaPFFWX2WWJF6x-gVW4P1mdvfKA&s"
                 : imgUrl
             }
           />
