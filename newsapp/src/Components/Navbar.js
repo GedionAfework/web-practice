@@ -7,9 +7,9 @@ export class Navbar extends Component {
       <div>
         <nav className="navbar navbar-expand-lg bg-body-secondary bg-dark">
           <div className="container-fluid">
-            <Link className="navbar-brand" to="/">
+            <a className="navbar-brand" href="/">
               News App
-            </Link>
+            </a>
             <button
               className="navbar-toggler"
               type="button"
@@ -27,39 +27,39 @@ export class Navbar extends Component {
             >
               <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                 <li className="nav-item">
-                  <Link className="nav-link" to="/">
+                  <a className="nav-link" href="/">
                     Home
-                  </Link>
+                  </a>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/business">
+                  <a className="nav-link" href="/business">
                     Business
-                  </Link>
+                  </a>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/entertainment">
+                  <a className="nav-link" href="/entertainment">
                     Entertainment
-                  </Link>
+                  </a>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/health">
+                  <a className="nav-link" href="/health">
                     Health
-                  </Link>
+                  </a>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/science">
+                  <a className="nav-link" href="/science">
                     Science
-                  </Link>
+                  </a>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/sport">
+                  <a className="nav-link" href="/sport">
                     Sport
-                  </Link>
+                  </a>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/technology">
+                  <a className="nav-link" href="/technology">
                     Technology
-                  </Link>
+                  </a>
                 </li>
               </ul>
               <div className="dropdown mx-5">
@@ -72,69 +72,69 @@ export class Navbar extends Component {
                 </button>
                 <ul className="dropdown-menu">
                   <li>
-                    <Link className="dropdown-item" to="#">
+                    <a className="dropdown-item" href="#">
                       English
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="#">
+                    <a className="dropdown-item" href="#">
                       Arabic
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="#">
+                    <a className="dropdown-item" href="#">
                       Germany (Standard)
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="#">
+                    <a className="dropdown-item" href="#">
                       Spanish
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="#">
+                    <a className="dropdown-item" href="#">
                       French
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="#">
+                    <a className="dropdown-item" href="#">
                       Hebrew
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="#">
+                    <a className="dropdown-item" href="#">
                       Italian
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="#">
+                    <a className="dropdown-item" href="#">
                       Dutch
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="#">
+                    <a className="dropdown-item" href="#">
                       Norwegian
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="#">
+                    <a className="dropdown-item" href="#">
                       Portuguese
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="#">
+                    <a className="dropdown-item" href="#">
                       Russian
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="#">
+                    <a className="dropdown-item" href="#">
                       Swedish
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="#">
+                    <a className="dropdown-item" href="#">
                       Chinese
-                    </Link>
+                    </a>
                   </li>
                 </ul>
               </div>
